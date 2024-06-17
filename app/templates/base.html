@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    {% block styles %}{% endblock %}
+    <link rel="icon" href="{{ url_for('static', filename='images/logo.png') }}">
+    <title>Placeholder</title>
+</head>
+<body>
+
+
+<div class="header">
+
+
+</div>
+
+{% block content %}
+<!--Content rendering block-->
+{% endblock content %}
+</body>
+</html>
