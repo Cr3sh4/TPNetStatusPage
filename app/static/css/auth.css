@@ -1,0 +1,12 @@
+.d-auth {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border: 1px solid white;
+}
+.form-control {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,11 @@
+
+/app/__pycache__
+/.idea
+/app/.vscode
+app/.vscode/settings.json
+/app/routes/__pycache__
+/app/routes/Authorization/__pycache__
+database.db-journal
+tpnet-uptime-monitor.db
+/app/.vscode
+app/.vscode/settings.json
